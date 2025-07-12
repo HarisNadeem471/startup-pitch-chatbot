@@ -1,0 +1,6 @@
+flask
+python-dotenv
+requests
+chromadb
+sentence-transformers
+PyMuPDF
